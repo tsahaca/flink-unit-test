@@ -1,0 +1,14 @@
+= Flink Unit Test Demo
+
+== Introduction
+[NOTE]
+====
+This is a Demo Project for Unit Testing Flink Operators
+====
+
+== Project Setup
+====
+. Clone the repo
+. mvn clean package
+.
+====
